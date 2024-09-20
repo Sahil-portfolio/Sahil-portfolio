@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sahil-portfolio
-- 👀 I’m interested in data analytics...
-- 🌱 I’m currently learning analyticla tools 
+- 👀 I’m interested in development
+- 🌱 I’m currently learning Bootstrap
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me @dumilsahil@gmail.com
 
